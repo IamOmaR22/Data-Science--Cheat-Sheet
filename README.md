@@ -6,6 +6,7 @@
 # Data Science Cheatsheets
 
 List of Data Science Cheatsheets :
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff) ![R](https://img.shields.io/badge/-R-%23555555?style=flat-square&logo=R&logoColor=ffffff) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-%233776AB?style=flat-square&logo=Machine%20Learning&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=ffffff) ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-%23217346?style=flat-square&logo=Microsoft%20Excel&logoColor=ffffff) ![Matlab](https://img.shields.io/badge/-Matlab-%233776AB?style=flat-square&logo=Matlab&logoColor=ffffff)
 
 ## Table of Contents
 - [Artificial Intelligence](Artificial%20Intelligence/README.md)
@@ -36,7 +37,7 @@ List of Data Science Cheatsheets :
 - [SQL](SQL/README.md)
 - [Statistics](Statistics/README.md)
 
-# Python
+# Python 
 
 <a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/Python_cheatsheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/python_cheatsheet.PNG?" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/spaCy.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/SpaCy.PNG?" alt="Illustration" width="415px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Python Cheat Sheet</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Spacy Cheat Sheet<b><br/>
   
